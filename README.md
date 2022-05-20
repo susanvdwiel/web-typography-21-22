@@ -52,10 +52,12 @@ Ook wordt er in de tweede scene van de video een scan uitgevoerd op de computer 
 
 Sounds uitschrijven<br>
 In het begin vond ik het lastig om goed voor me te zien welke sounds ik hoe wilde visualiseren. Daarom heb ik het filmpje wel 30x opnieuw gekeken om alle sounds met tijdstamps op te schrijven en erbij te zetten wat voor visualisatie ik hierbij zie. Dit gaf mij houvast tijdens het uitwerken van de closed captions.
-<AFBEELDING SCHRIFT>
+
+<img src="readme-images/schrift.jpg" width="375px" alt="schrift-met-tijdstamps">
 
 Later in het proces heb ik de tijdstamps nog verder uitgewerkt om goed voor mezelf te hebben welke tijdstamp aan welke sound gekoppeld staat. Daarom heb ik in comments in het javascript bestand aangegeven welk nummer sound er aan gekoppeld zit.
-<AFBEELDING NOTITIES>
+
+<img src="readme-images/tijdstamps.jpg" width="375px" alt="notities-met-tijdstamps">
 
 Twee animaties op een sound<br>
 Het is mij ook gelukt om twee animaties op een sounds te zetten. Bijvoorbeeld bij de achtergrond in de tweede scene zitten er twee animaties op de achtergrond, namelijk de zigzag die heen en weer gaat en de ruis. Dit vond ik erg vet en gaf nog meer dat intense gevoel.
@@ -67,7 +69,10 @@ Het leek me leuk om de tekst van de hoofdpersoon aan de rechterkant uit te lijne
 ## FEEDBACK
 Tijdens de lessen kregen we feedback op ons gemaakte werk. Ik liep eigenlijk een beetje achter, omdat ik bepaalde dingen niet voor elkaar kreeg. Zo had ik bijvoorbeeld niet door hoe je een animatie kon stoppen bij een nieuwe sound en hoe de rode rand bij het eerste alarm over de hele iframe zou schalen. Deze vragen heb ik tijdens de feedbacksessies gevraagd. Daarnaast heb ik aan mijn ouders, die er ver buiten stonden, ook gevraagd om feedback. Zij gaven aan dat de tweede scene van het spannende geluid nog wel intenser kon (toen hij nog in de beginstadia was). Dit advies heb ik verwerkt. 
 
-<AFBEELDING RUIS> <AFBEELDING ZIGZAGRUIS>
+<img src="readme-images/ruis.jpg" width="375px" alt="achtergrond-met-ruis">
+
+<img src="readme-images/zigzag-ruis.jpg" width="375px" alt="achtergrond-met-zigzag-en-ruis">
+
 Ik begon met het verwerken van een ruis in beeld. Hierop gaven mijn ouders mij feedback dat dit intenser kan. Ruis heeft ook niet het gevoel van in trance zijn. Daarom heb ik een zigzag achtergrond toegepast.
 
 ## TESTEN
