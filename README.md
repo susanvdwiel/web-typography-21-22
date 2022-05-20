@@ -52,7 +52,7 @@ Ook wordt er in de tweede scene van de video een scan uitgevoerd op de computer 
 
 Sounds uitschrijven
 In het begin vond ik het lastig om goed voor me te zien welke sounds ik hoe wilde visualiseren. Daarom heb ik het filmpje wel 30x opnieuw gekeken om alle sounds met tijdstamps op te schrijven en erbij te zetten wat voor visualisatie ik hierbij zie. Dit gaf mij houvast tijdens het uitwerken van de closed captions.
-<img src="readme-images/schrift" width="375px" alt="schrift-met-tijdstamps">
+<img src="readme-images/schrift.jpg" width="375px" alt="schrift-met-tijdstamps">
 
 Later in het proces heb ik de tijdstamps nog verder uitgewerkt om goed voor mezelf te hebben welke tijdstamp aan welke sound gekoppeld staat. Daarom heb ik in comments in het javascript bestand aangegeven welk nummer sound er aan gekoppeld zit.
 <img src="readme-images/tijdstamps" width="375px" alt="notities-met-tijdstamps">
