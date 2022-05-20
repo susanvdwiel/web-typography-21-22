@@ -1,83 +1,76 @@
 # Web Typography, 2020/2021
+De opdracht voor het vak webtypografie is het visueel sterker maken van closed captions. De huidige closed captions zijn erg neutraal en zakelijk. Vaak is de soort emotie moeilijk te onderscheiden. Om dit visueel sterker te maken kan je een emotie op een andere manier vormgeven.
 
-Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
+## TYPOGRAFIE
 
-Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van huilend persoon zou bijvoorbeeld beschreven kunnen worden als *snikgeluid op de achtergrond*. En iemand die lacht zou geschreven kunnen worden als *iemand lacht.* Heel neutraal, bijna zakelijk, en bovendien allebei in precies hetzelfde neutrale lettertype. Terwijl het toch echt over twee heel verschillende emoties gaat. 
+Bij de opdracht konden we kiezen uit twee verschillende lettertypes, namelijk een systeemfont of het font Brenner. Ik heb gekozen voor het font Brenner omdat hier zoveel verschillende uitvoeringen van zijn. Voor elke emotie kan je een font-variant kiezen.
 
-Dat kan visueel sterker. 
+Voor voice 1, 4 en 5 heb ik gekozen voor Brenner Mono. Deze stem mij een monotoon gevoel gaf. Alles wordt zonder emotie gezegd en het voelt erg geautomatiseerd. Een monotoon lettertype wordt vaak gebruikt binnen computersystemen. Deze associatie had ik bij deze stem. Daarnaast vond ik dat er een groot verschil moest zijn tussen de stem van de computer en de hoofdpersoon. Zo is het duidelijk te onderscheiden van elkaar. Deze voices heb ik de kleur rood gegeven. Dit omdat ik rood associeer met bood en indringend.
 
-En dat gaan jullie doen.
+Voor voice 2 heb ik gekozen voor Brenner Sans. Dit is de stem van de hoofdpersoon. Hij heeft een rustige stem. Het lettertype oogt rustig doordat het sans-serif is. De stem heeft een gele kleur, omdat geel onder andere voor angstig staat. De hoofdpersoon klinkt heel rustig, maar bevindt zich in een hectische situatie.
 
-## Leerdoelen
+Voor voice 3 heb ik gekozen voor Brenner Sans Condensed Italic. De persoon fluistert iets naars naar de hoofdpersoon. De hoofdpersoon deed er zelfs voor uitwijken. Dit geeft een gevoel van macht dat deze persoon over zich heen heeft. Het gevoel dat een condensed lettertype mij geeft is iets snel willen, snel even iets zeggen. Het is cursief omdat het snel wordt gezegd en niet op een normale manier. Het wordt namelijk fluisterend naar de hoofdpersoon geroepen.
 
-- Je kan de kennis over vormgeving die je hebt opgedaan tijdens de minor technisch toepassen met behulp van CSS
-- Je kan verborgen nuance uit een audiotrack overtuigend vertalen naar visuele (typografische) beelden
-- Je kan je typografische keuzes onderbouwen.
-- Je hebt de exclusive design principles gebruikt.
+Voor de teksten die de geluiden omschrijft heb ik gekozen voor Brenner Sans Condensed.
+Om de geluiden van de video nog meer te visualiseren heb ik de geluiden omschreven. Denk bijvoorbeeld aan 🚨sirene of ☎️ telephone ringing.
 
-## Oplevering
+## KLEURKEUZE
 
-Je levert een werkende versie op, gemaakt met HTML, CSS en JavaScript. Deze staat op Github. In een duidelijke readme documenteer en onderbouw je je ontwerpkeuzes. Je developmentgeschiedenis is terug te vinden op GitHub.
+Iedere stem heb ik een andere kleur gegeven, zodat men weet dat er meerdere mensen aan het woord zijn. Het contrast tussen deze kleuren is hoog, waardoor het voor kleurenblinden ook nog te volgen is. 
 
-Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
+Verder heb ik gekeken naar de achtergrondkleuren en deze verwerkt in de achtergrond. Zo blijft er eenheid en wordt je naar het filmpje getrokken.
 
-De beoordeling is mondeling en volgt [de rubric uit het beoordelingsformulier](web-typografie-beoordeling.pdf).
+## SOUNDS
 
-## Typografische restricties
+Alarm
+Aan het begin van de video gaat er een alarm af op de achtergrond. Het is een kort alarm die eenmalig te horen is. Mijn associatie met een alarm is een rood licht van gevaar. Daarom heb ik de zijkanten van het beeld kort rood opgelicht.
 
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
+Sirene
+Rond de tien seconden van de video hoor je een sirene afgaan. Bij een sirene heb ik een associatie met bijvoorbeeld de ambulance, politie of brandweer. In de achtergrond heb ik deze kleuren van de hulpdiensten verwerkt. 
 
-### Optie 1: Systeemfont
+Computergeluid
+Meerdere keren in de video wordt een soort computergeluid afgespeeld. Mijn associatie is een soort scan/check van een computer of alles nog klopt. Dit geluid vond ik best vervelend, omdat het op momenten wordt afgespeeld dat niet helemaal klopt. Daarom heb ik het beeld laten vervagen als een soort scan die wordt uitgevoerd.
 
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
+Pieptoon
+In de video zit ook een hele indringende pieptoon. Hij begint redelijk rustig, maar wordt steeds heftiger. Het moment van stoppen van de pieptoon is ook heel abrupt. Om het gevoel te geven aan doven dat het een irritante piep is heb ik het beeld ook heel irritant gemaakt. Iets wat eigenlijk heel lelijk is, haha. De achtergrond wordt afgewisseld zwart-wit en gaat steeds sneller. Aan het einde van de piep - wanneer hij heel vervelend is - gaat het beeld heel snel zwart-wit. Het lijkt wel alsof je aan het spacen bent.
 
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
+Telefoon
+In de tweede scene van de video klinkt het alsof een telefoon kort afgaat. Om het rinkelen van de telefoon te verbeelden, heb ik het scherm kort laten trillen/schudden. Zo heb je het gevoel dat de telefoon afgaat. Dit wordt ook versterkt voor de tekst ☎️ telephone ringing.
 
-### Optie 2: Brenner
+## ADD NONSENSE
 
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
+Uitdeinen 
+De man van voice 3 komt best naar uit de hoek. De hoofdpersoon doet er een stapje voor opzij. Dit heb ik verwerkt in het opzij schuiven van de video. Zo lijkt het alsof je echt opzij stapt voor voice 3.
 
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
+Spacende tweede scene
+Om de tweede scene visueel te maken heb ik ervoor gekozen om een zigzag achtergrond te gebruiken met daar overheen een ruis toe te passen. Het geluid van deze scene lijkt net of iemand in trance is. Dit heb ik geprobeerd uit te werken met de zigzagjes en de ruis.
 
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
+Scan
+Ook wordt er in de tweede scene van de video een scan uitgevoerd op de computer van de mevrouw. Het leek mij leuk om deze scan door te trekken op de achtergrond.
 
-## Het fragment
+## WAT IS ER GELUKT?
 
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
+Sounds uitschrijven
+In het begin vond ik het lastig om goed voor me te zien welke sounds ik hoe wilde visualiseren. Daarom heb ik het filmpje wel 30x opnieuw gekeken om alle sounds met tijdstamps op te schrijven en erbij te zetten wat voor visualisatie ik hierbij zie. Dit gaf mij houvast tijdens het uitwerken van de closed captions.
+<AFBEELDING SCHRIFT>
 
-### De captions
+Later in het proces heb ik de tijdstamps nog verder uitgewerkt om goed voor mezelf te hebben welke tijdstamp aan welke sound gekoppeld staat. Daarom heb ik in comments in het javascript bestand aangegeven welk nummer sound er aan gekoppeld zit.
+<AFBEELDING NOTITIES>
 
-De captions staan in de html, in het bestand index.html. Je kan aan elke paragraaf eventueel een of meer classes toevoegen. Bijvoorbeeld `voice1` of `voice2 soft`. Classes voeg je handmatig toe in de html.
+Twee animaties op een sound
+Het is mij ook gelukt om twee animaties op een sounds te zetten. Bijvoorbeeld bij de achtergrond in de tweede scene zitten er twee animaties op de achtergrond, namelijk de zigzag die heen en weer gaat en de ruis. Dit vond ik erg vet en gaf nog meer dat intense gevoel.
 
-Met JavaScript worden er een paar dingen extra gedaan: 
+## WAT IS NIET GELUKT?
+Tekst hoofdpersoon rechts uitlijnen
+Het leek me leuk om de tekst van de hoofdpersoon aan de rechterkant uit te lijnen, waardoor er echt een soort conversatie zou plaatsvinden tussen de geautomatiseerde stem en de stem van de hoofdpersoon. Het rechts uitcentreren was gelukt, maar wanneer ik deze tekst een achtergrondkleur mee wilde geven, nam hij de hele width mee. Ik heb wat geprobeerd met een span om de <p>tjes heen of de grid aan te passen, maar beide oplossingen werkte niet. Gelukkig was dit geen ramp.
+    
+## FEEDBACK
+Tijdens de lessen kregen we feedback op ons gemaakte werk. Ik liep eigenlijk een beetje achter, omdat ik bepaalde dingen niet voor elkaar kreeg. Zo had ik bijvoorbeeld niet door hoe je een animatie kon stoppen bij een nieuwe sound en hoe de rode rand bij het eerste alarm over de hele iframe zou schalen. Deze vragen heb ik tijdens de feedbacksessies gevraagd. Daarnaast heb ik aan mijn ouders, die er ver buiten stonden, ook gevraagd om feedback. Zij gaven aan dat de tweede scene van het spannende geluid nog wel intenser kon (toen hij nog in de beginstadia was). Dit advies heb ik verwerkt. 
 
-- er wordt aan elke paragraaf een unieke class toegevoegd (`p0`, `p1`, etc)
-- Elk woord wordt in een aparte `span` gezet. Hierdoor kan je elk woord apart stylen, en eventueel ook [na elkaar laten verschijnen](https://github.com/cmda-minor-vid/web-typography-18-19/blob/master/closed-captions/css.css#L41).
+<AFBEELDING RUIS> <AFBEELDING ZIGZAGRUIS>
+Ik begon met het verwerken van een ruis in beeld. Hierop gaven mijn ouders mij feedback dat dit intenser kan. Ruis heeft ook niet het gevoel van in trance zijn. Daarom heb ik een zigzag achtergrond toegepast.
 
-### Tijdens het afspelen
+## TESTEN
 
-Tijdens het afspeelen wordt er een class `on` op de caption gezet als hij moet verschijnen, en een class `off` als hij klaar is. *Zowel class `on` als class `off` blijft op de caption staan!*
-
-De timimg van de captions kan je aanpassen in [closed-captions/captions.js](closed-captions/captions.js).
-
-Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
-
-*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
-
-## Een eigen fragment (afgeraden, uitgebreide onderbouwing is nodig)
-
-Je kan er ook voor kiezen om een eigen, *beter* fragment te gebruiken. Dit wordt afgeraden. De tijd die je besteedt aan het zoeken naar dat fragment kan je beter besteden aan het werken aan de opdracht. Bovendien blijkt dat er vaak fragmenten worden gekozen die niet goed voldoen aan de opdracht. Als je een ander fragment kiest dan *moet* je dit goed onderbouwd voorleggen aan je docent. De deadline hiervoor is vrijdagochtend in de eerste week.
-
-### Waar moet je op letten bij het kiezen van een eigen fragment.
-Lees de opdracht nog eens goed door. Waar gaat het ook al weer precies om? 
-
-Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vragen in elk geval beantwoorden:
-
-- Welke informatie zit er in de audio die echt niet zichtbaar is?
-- Welke rol speelt de audio in het fragment?
-- Werkt de scene nog zonder geluid?
-- Waarom is dit fragment beter dan het aangeboden fragment?
-
-Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
-
-Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+Op woensdag 18 mei heb ik de video getest met mijn vriend. Mijn vriend is kleurenblind, dus dit vond ik een leuk aspect om mee te nemen. Eerst heb ik de video laten zien zonder geluid en vervolgend met geluid om feedback te vragen om sommige sounds anders uit te werken.
+Hij had het eigenlijk gelijk door dat wanneer de kleuren van de sirene in beeld kwamen, dat het een sirene voor moest stellen. Het gedeelte van de intense piep ervaarde hij ook echt als vervelend “ah, moet dit nou echt zo?”. Toen wist ik dat wat ik had gemaakt, vervelend genoeg was :-). De kleuren gaven een hoog contrast tussen de verschillende stemmen. Hij had door dat dit er verschillende mensen aan het woord zijn.
