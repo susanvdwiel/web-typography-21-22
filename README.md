@@ -22,57 +22,52 @@ Verder heb ik gekeken naar de achtergrondkleuren en deze verwerkt in de achtergr
 
 ## SOUNDS
 
-Alarm
+Alarm<br>
 Aan het begin van de video gaat er een alarm af op de achtergrond. Het is een kort alarm die eenmalig te horen is. Mijn associatie met een alarm is een rood licht van gevaar. Daarom heb ik de zijkanten van het beeld kort rood opgelicht.
 
-Sirene
+Sirene<br>
 Rond de tien seconden van de video hoor je een sirene afgaan. Bij een sirene heb ik een associatie met bijvoorbeeld de ambulance, politie of brandweer. In de achtergrond heb ik deze kleuren van de hulpdiensten verwerkt. 
 
-Computergeluid
+Computergeluid<br>
 Meerdere keren in de video wordt een soort computergeluid afgespeeld. Mijn associatie is een soort scan/check van een computer of alles nog klopt. Dit geluid vond ik best vervelend, omdat het op momenten wordt afgespeeld dat niet helemaal klopt. Daarom heb ik het beeld laten vervagen als een soort scan die wordt uitgevoerd.
 
-Pieptoon
+Pieptoon<br>
 In de video zit ook een hele indringende pieptoon. Hij begint redelijk rustig, maar wordt steeds heftiger. Het moment van stoppen van de pieptoon is ook heel abrupt. Om het gevoel te geven aan doven dat het een irritante piep is heb ik het beeld ook heel irritant gemaakt. Iets wat eigenlijk heel lelijk is, haha. De achtergrond wordt afgewisseld zwart-wit en gaat steeds sneller. Aan het einde van de piep - wanneer hij heel vervelend is - gaat het beeld heel snel zwart-wit. Het lijkt wel alsof je aan het spacen bent.
 
-Telefoon
+Telefoon<br>
 In de tweede scene van de video klinkt het alsof een telefoon kort afgaat. Om het rinkelen van de telefoon te verbeelden, heb ik het scherm kort laten trillen/schudden. Zo heb je het gevoel dat de telefoon afgaat. Dit wordt ook versterkt voor de tekst ☎️ telephone ringing.
 
 ## ADD NONSENSE
 
-Uitdeinen 
+Uitdeinen <br>
 De man van voice 3 komt best naar uit de hoek. De hoofdpersoon doet er een stapje voor opzij. Dit heb ik verwerkt in het opzij schuiven van de video. Zo lijkt het alsof je echt opzij stapt voor voice 3.
 
-Spacende tweede scene
+Spacende tweede scene<br>
 Om de tweede scene visueel te maken heb ik ervoor gekozen om een zigzag achtergrond te gebruiken met daar overheen een ruis toe te passen. Het geluid van deze scene lijkt net of iemand in trance is. Dit heb ik geprobeerd uit te werken met de zigzagjes en de ruis.
 
-Scan
+Scan<br>
 Ook wordt er in de tweede scene van de video een scan uitgevoerd op de computer van de mevrouw. Het leek mij leuk om deze scan door te trekken op de achtergrond.
 
 ## WAT IS ER GELUKT?
 
-Sounds uitschrijven
+Sounds uitschrijven<br>
 In het begin vond ik het lastig om goed voor me te zien welke sounds ik hoe wilde visualiseren. Daarom heb ik het filmpje wel 30x opnieuw gekeken om alle sounds met tijdstamps op te schrijven en erbij te zetten wat voor visualisatie ik hierbij zie. Dit gaf mij houvast tijdens het uitwerken van de closed captions.
-
-<img src="readme-images/schrift.jpg" width="375px" alt="schrift-met-tijdstamps">
+<AFBEELDING SCHRIFT>
 
 Later in het proces heb ik de tijdstamps nog verder uitgewerkt om goed voor mezelf te hebben welke tijdstamp aan welke sound gekoppeld staat. Daarom heb ik in comments in het javascript bestand aangegeven welk nummer sound er aan gekoppeld zit.
+<AFBEELDING NOTITIES>
 
-<img src="readme-images/tijdstamps.jpg" width="375px" alt="notities-met-tijdstamps">
-
-Twee animaties op een sound
+Twee animaties op een sound<br>
 Het is mij ook gelukt om twee animaties op een sounds te zetten. Bijvoorbeeld bij de achtergrond in de tweede scene zitten er twee animaties op de achtergrond, namelijk de zigzag die heen en weer gaat en de ruis. Dit vond ik erg vet en gaf nog meer dat intense gevoel.
 
 ## WAT IS NIET GELUKT?
-Tekst hoofdpersoon rechts uitlijnen
-Het leek me leuk om de tekst van de hoofdpersoon aan de rechterkant uit te lijnen, waardoor er echt een soort conversatie zou plaatsvinden tussen de geautomatiseerde stem en de stem van de hoofdpersoon. Het rechts uitcentreren was gelukt, maar wanneer ik deze tekst een achtergrondkleur mee wilde geven, nam hij de hele width mee. Ik heb wat geprobeerd met een span om de <p>tjes heen of de grid aan te passen, maar beide oplossingen werkte niet. Gelukkig was dit geen ramp.
+Tekst hoofdpersoon rechts uitlijnen<br>
+Het leek me leuk om de tekst van de hoofdpersoon aan de rechterkant uit te lijnen, waardoor er echt een soort conversatie zou plaatsvinden tussen de geautomatiseerde stem en de stem van de hoofdpersoon. Het rechts uitcentreren was gelukt, maar wanneer ik deze tekst een achtergrondkleur mee wilde geven, nam hij de hele width mee. Ik heb wat geprobeerd met een span om de p'tjes heen of de grid aan te passen, maar beide oplossingen werkte niet. Gelukkig was dit geen ramp.
     
 ## FEEDBACK
 Tijdens de lessen kregen we feedback op ons gemaakte werk. Ik liep eigenlijk een beetje achter, omdat ik bepaalde dingen niet voor elkaar kreeg. Zo had ik bijvoorbeeld niet door hoe je een animatie kon stoppen bij een nieuwe sound en hoe de rode rand bij het eerste alarm over de hele iframe zou schalen. Deze vragen heb ik tijdens de feedbacksessies gevraagd. Daarnaast heb ik aan mijn ouders, die er ver buiten stonden, ook gevraagd om feedback. Zij gaven aan dat de tweede scene van het spannende geluid nog wel intenser kon (toen hij nog in de beginstadia was). Dit advies heb ik verwerkt. 
 
-
-<img src="readme-images/ruis.jpg" width="375px" alt="achtergrond-met-ruis"> 
-
-<img src="readme-images/zigzag-ruis.jpg" width="375px" alt="achtergrond-met-zigzag-en-ruis">
+<AFBEELDING RUIS> <AFBEELDING ZIGZAGRUIS>
 Ik begon met het verwerken van een ruis in beeld. Hierop gaven mijn ouders mij feedback dat dit intenser kan. Ruis heeft ook niet het gevoel van in trance zijn. Daarom heb ik een zigzag achtergrond toegepast.
 
 ## TESTEN
